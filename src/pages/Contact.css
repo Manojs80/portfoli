@@ -1,0 +1,30 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    }
+.error{
+       color: red;
+       font-weight: bold;
+    }
+.formbody{
+    padding-bottom: 15rem;
+    background-color: black;
+}
+.formbody h1{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.form-container  input{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+.form-container textarea{
+    color: blue;
+}
+.{
+    background-color: aquamarine;
+ 
+}

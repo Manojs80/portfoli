@@ -1,0 +1,30 @@
+.i-p{
+    position: absolute;
+    top: 20vh;
+    left: 85vw;
+    right: 5vw;
+}
+.icon{
+    border-radius: 50px;
+}
+
+
+.icon ul{
+    padding: 3vw;
+    
+  }
+  .icon ul li{
+      list-style: none; 
+      align-items: center;      
+      line-height: 11vh;
+      
+  }
+  .bi{
+      color: hwb(115 38% 17%);
+     padding-right: 0.8rem;
+  }
+  .icon ul li a:hover{
+      .bi{
+          color: red;
+      }
+  }

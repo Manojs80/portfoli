@@ -1,0 +1,23 @@
+.skill{
+    position: relative;
+    background-image: src;
+}
+
+
+.skill1{
+    position: absolute;
+    left: 20%;
+    top: 5%;
+    bottom: 70%;
+    color: rgb(200, 255, 3); 
+    font-weight: bold;
+    font-size: 26px;
+}
+.imgskill{
+    position:absolute;
+    left: 30%;
+    top: 20%;
+    right: 20%;
+    bottom: 20%;
+
+}

@@ -1,0 +1,90 @@
+.CarouselCaption{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    
+    right: 20%;
+}
+.cr1 {
+    color: rgb(247, 2, 2);   
+    text-align: center;
+    background-color: rgb(209, 172, 128);
+}
+.cr1 h2{
+    font-size: 7vw;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cr1 h4{
+    font-size: 3vw;
+}
+.cr1 h6{
+    font-size: 2vw;
+}
+
+.cr2{
+    position: absolute;
+    top: 8%;
+    left:8%;
+    right: 3%;
+   
+}
+.cr2 h4{
+    color: rgb(200, 255, 3);
+    font-size: 3vw;
+    font-weight: bold;
+    text-align: center;
+}
+.cr2 h6{
+    color: white;
+    font-size: 2vw;
+    text-wrap: balance;
+}
+.cr3{
+    position: absolute;
+    top: 40%;
+    left: 0%;
+    bottom: 0%;
+    right: 0%;
+}
+.cr3 h3{
+    font-weight: bold;
+    font-size: 5vw;
+    color: rgb(200, 255, 3);
+    text-align: center;
+    align-items: center;
+}
+
+.iconhead{
+    color: hwb(305 7% 7%);
+    font-size: 2.5vw;
+    font-weight: bold;
+    font-style: italic;
+}
+.iconbody{
+   
+   background-image: url(https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif);
+}
+.icon2 ul {
+    list-style: none;
+    
+}
+.icon2 ul li{
+    padding-right: 5vw;
+    padding-left: 3vw;
+    
+}
+.bi{
+    font-size: 3vw;
+    color: hwb(115 38% 17%);
+   padding-right: 0.8rem;
+}
+.icon2 ul li a:hover{
+    .bi{
+        color: red;
+    }
+}
+
+/* 
+
+
+*/
